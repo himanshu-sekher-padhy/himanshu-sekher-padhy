@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Himanshu</h1><h3 align="center">Full-Stack Developer  ||  UI/UX Designer</h3>
+<h1 align="center">Hi there, I'm Himanshu 👋 <br> <span style="font-size: 18px;">Full-Stack Developer  ||  UI/UX Designer</span></h1>
 
 ---
 
@@ -34,7 +34,6 @@ console.log(`🎉 Fun Fact: ${himanshu-sekher-padhy.funFact()}`);
 
 <p align="center">
   <a href="mailto:himanshusekhar1602@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/himanshu-sekher-padhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/himanshu-sekher-padhy"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
   <a href="https://www.instagram.com/himanshu___1602/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-sekher-padhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
