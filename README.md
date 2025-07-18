@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
 
-# Hi there, I'm Himanshu 👋  
-**Full-Stack Developer  ||  UI/UX Designer**
+# Hi there, I'm Himanshu 
+**Web Developer  ||  Full-Stack Developer  ||  Web Designer**
 
 </div>
 
