@@ -1,5 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Himanshu 👋 <br> <span style="font-size: 12px;">Full-Stack Developer  ||  UI/UX Designer</span></h1>
+<div align="center">
+
+# Hi there, I'm Himanshu 👋  
+**Full-Stack Developer  ||  UI/UX Designer**
+
+</div>
 
 ```js
 const himanshu-sekher-padhy = {
@@ -7,7 +12,7 @@ const himanshu-sekher-padhy = {
   role: "Full-Stack Developer",
   skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
   interests: ["Data Structures", "Algorithms", "Problem Solving", "Database Design"],
-  passion: "Building responsive, scalable applications with great UI and ensuring performance optimization and codebase maintainability.",
+  passion: "Building responsive, scalable applications and ensuring performance optimization and codebase maintainability.",
   
   askMeAbout() {
     return [
@@ -34,4 +39,5 @@ console.log(`🎉 Fun Fact: ${himanshu-sekher-padhy.funFact()}`);
   <a href="mailto:himanshusekhar1602@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/himanshu___1602/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshu-sekher-padhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/himanshuCodes22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
 </p>
