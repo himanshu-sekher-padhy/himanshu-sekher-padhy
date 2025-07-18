@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
 
-# Hi there, I'm Himanshu 
 **Web Developer  ||  Full-Stack Developer  ||  Web Designer**
 
 </div>
@@ -36,7 +35,7 @@ console.log(`🎉 Fun Fact: ${himanshu-sekher-padhy.funFact()}`);
 ## 🔗 Socials
 
 <p>
-  <a href="mailto:himanshusekhar1602@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:himanshusekhar1602@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/himanshu___1602/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/himanshu-sekher-padhy"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://leetcode.com/u/himanshuCodes22/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /></a>
