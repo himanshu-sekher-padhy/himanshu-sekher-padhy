@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-#<h1 align="center">Hi there, I'm Himanshu 👋</h1>
-##<h3 align="center">Full-Stack Developer  ||  UI/UX Designer</h3>
+# <h1 align="center">Hi there, I'm Himanshu 👋</h1>
+## <h3 align="center">Full-Stack Developer  ||  UI/UX Designer</h3>
 
 ---
 
@@ -31,7 +31,7 @@ console.log(`🎉 Fun Fact: ${himanshu-sekher-padhy.funFact()}`);
 
 ---
 
-##🔗 Socials
+## 🔗 Socials
 
 <p align="center">
   <a href="mailto:himanshusekhar1602@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
