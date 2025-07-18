@@ -1,8 +1,5 @@
 <!-- Profile Header -->
-<span>
-  <h1 align="center">Hi there, I'm Himanshu 👋</h1>
-  <h3 align="center">Full-Stack Developer  ||  UI/UX Designer</h3>
-</span>
+<h1 align="center">Hi there, I'm Himanshu</h1><h3 align="center">Full-Stack Developer  ||  UI/UX Designer</h3>
 
 ---
 
