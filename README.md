@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
 
-🔴 **Web Developer   ||   Full-Stack Developer   ||   Web Designer**
+**Web Developer   ||   Full-Stack Developer   ||   Web Designer**
 
 </div>
 
