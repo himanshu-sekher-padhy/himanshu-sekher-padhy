@@ -7,7 +7,7 @@
 
 
 ```js
-const himanshu-sekher-padhy = {
+const himanshu = {
   name: "Himanshu Sekher Padhy",
   role: "Full-Stack Developer",
   skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
@@ -26,9 +26,9 @@ const himanshu-sekher-padhy = {
   funFact: () => "I believe the right data structure can be a game-changer in any project!",
 };
 
-console.log(`👋 Hey there! I'm ${himanshu-sekher-padhy.name}, a passionate ${himanshu-sekher-padhy.role}.`);
-console.log("🔥 Ask me about:", himanshu-sekher-padhy.askMeAbout().join("\n"));
-console.log(`🎉 Fun Fact: ${himanshu-sekher-padhy.funFact()}`);
+console.log(`👋 Hey there! I'm ${himanshu.name}, a passionate ${himanshu-sekher-padhy.role}.`);
+console.log("🔥 Ask me about:", himanshu.askMeAbout().join("\n"));
+console.log(`🎉 Fun Fact: ${himanshu.funFact()}`);
 ```
 
 ---
