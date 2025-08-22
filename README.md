@@ -6,14 +6,24 @@
 </div>
 
 
-```js
-const himanshu = {
+```ts
+type Himanshu = {
+  name: string;
+  role: string;
+  skills: string[];
+  interests: string[];
+  passion: string;
+  askMeAbout(): string[];
+  funFact: () => string;
+};
+
+const himanshu: Himanshu = {
   name: "Himanshu Sekher Padhy",
   role: "Full-Stack Developer",
   skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
   interests: ["Data Structures", "Algorithms", "Problem Solving", "Database Design"],
   passion: "Building responsive, scalable applications, ensuring performance optimization and codebase maintainability.",
-  
+
   askMeAbout() {
     return [
       "Web Development 🔧 – I enjoy building things for the web using JavaScript and React.",
@@ -26,8 +36,8 @@ const himanshu = {
   funFact: () => "I believe the right data structure can be a game-changer in any project!",
 };
 
-console.log(`👋 Hey there! I'm ${himanshu.name}, a passionate ${himanshu-sekher-padhy.role}.`);
-console.log("🔥 Ask me about:", himanshu.askMeAbout().join("\n"));
+console.log(`👋 Hey there! I'm ${himanshu.name}, a passionate ${himanshu.role}.`);
+console.log("🔥 Ask me about:\n" + himanshu.askMeAbout().join("\n"));
 console.log(`🎉 Fun Fact: ${himanshu.funFact()}`);
 ```
 
