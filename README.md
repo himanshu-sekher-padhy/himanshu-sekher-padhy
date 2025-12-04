@@ -10,25 +10,26 @@
 const himanshu = {
   name: "Himanshu Sekher Padhy",
   role: "Full-Stack Developer",
-  skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MySQL"],
-  interests: ["Data Structures", "Algorithms", "Problem Solving", "Database Design"],
-  passion: "Building responsive, scalable applications, ensuring performance optimization and codebase maintainability.",
-  
+  skills: ["Java", "Spring Boot", "React", "Node.js", "SQL"],
+  interests: ["Backend Development", "System Design", "DSA", "API Engineering"],
+  passion: "Building scalable backend systems and clean, maintainable applications.",
+
   askMeAbout() {
     return [
-      "Web Development 🔧 – I enjoy building things for the web using JavaScript and React.",
-      "Data Structures & Algorithms 📐 – from arrays to trees, I love organizing data efficiently.",
-      "Database Design 📊 – crafting optimized schemas is my jam.",
-      "Problem Solving 🧩 – I enjoy tackling tricky coding challenges!"
+      "Backend Development – Java, Spring Boot, REST APIs",
+      "Frontend Development – React, UI building",
+      "Database Design – SQL, schema optimization",
+      "Problem Solving – DSA and debugging"
     ];
   },
 
-  funFact: () => "I believe the right data structure can be a game-changer in any project!",
+  funFact: () => "Clean code and good architecture are my superpowers."
 };
 
-console.log(`👋 Hey there! I'm ${himanshu.name}, a passionate ${himanshu-sekher-padhy.role}.`);
-console.log("🔥 Ask me about:", himanshu.askMeAbout().join("\n"));
-console.log(`🎉 Fun Fact: ${himanshu.funFact()}`);
+console.log(`👋 Hi! I'm ${himanshu.name}, a ${himanshu.role}.`);
+console.log("💡 Ask me about:\n" + himanshu.askMeAbout().join("\n"));
+console.log(`⭐ Fun Fact: ${himanshu.funFact()}`);
+
 ```
 
 ---
